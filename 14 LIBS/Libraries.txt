@@ -1,0 +1,7 @@
+https://jquery.com/
+
+https://mathjs.org/
+
+https://www.dropzone.dev/js/
+
+https://formatjs.io/
