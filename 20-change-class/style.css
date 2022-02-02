@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    gap: 30px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.buttons {
+    display: flex;
+    gap: 10px;
+
+}
+
+.buttons button {
+    width: 100px;
+    height: 30px;
+    font-size: 20px;
+}
+
+.red {
+    color: #ff0000;
+}
+
+.blue {
+    color: #0000ff;
+}
+
+.green {
+    color: #00ff00;
+}
